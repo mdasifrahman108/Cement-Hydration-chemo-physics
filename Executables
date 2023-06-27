@@ -1,1 +1,10 @@
+This executable file will run on any pc without requiring any pre-installed software/packages.
 
+Download the exe file and unzip from here:
+step 1: https://drive.google.com/uc?export=download&id=14USCRN4BGtAkXINXPMpeQkXBwot_cEHe
+
+Run the exe file with the following commands in the Command prompt:
+step 2: cd C:\Users\me\Downloads\pinn_hydra_pinn+scms_git.dist #change if you have a different path
+step 3: pinn_hydra_pinn+scms_git.exe > output.txt  
+
+Thus, the executable will show the cement hydration prediction at different space x and time t, from the trained PINN-Hydra model.
